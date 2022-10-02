@@ -6,4 +6,17 @@
 
 **About me**
 
-I am a PhD student at University of Rochester advised by Juan Rivera-Letelier. My research interests lie in the areas of dynamical systems and ergodic theory.
+I am a PhD student at University of Rochester advised by [Juan Rivera-Letelier](http://rivera-letelier.org/). My research interests lie in the areas of dynamical systems and ergodic theory.
+
+## Research
+
+**Preprints and Publications**
+
+
+
+1.Invariant measures for interval maps without Lyapunov exponents.()
+*Ergodic Theory and Dynamical Systems, 2021*
+
+
+
+
