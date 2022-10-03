@@ -1,7 +1,9 @@
-<img src="moebius.jpg" width="400" 
-     height="200" align="right" />
+
 
 # Jorge Olivares-Vinales
+
+<img src="moebius.jpg" width="400" 
+     height="200" align="right" />
 
 **Contact information**
 - Email: jolivar2@ur.rochester.edu
