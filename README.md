@@ -18,6 +18,6 @@ I am a PhD student at University of Rochester advised by [Juan Rivera-Letelier](
 
 
 **Others**
-- **Interval maps with singularities and critical points of inflection type.**(pdf)
+- **Interval maps with singularities and critical points of inflection type.**([pdf](olivaresvinales/))
 
 
