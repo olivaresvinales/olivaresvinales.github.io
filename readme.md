@@ -1,4 +1,5 @@
-<img src="icon.png" align="right" />
+<img src="moebius.jpeg" width="400" 
+     height="200" align="right" />
 
 # Jorge Olivares-Vinales
 
