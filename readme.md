@@ -6,12 +6,12 @@
      height="200" align="right" />
 
 **Contact information**
-- Email: jolivar2@ur.rochester.edu
-- Office: 718 Hylan Building, 140 Trustee Rd, Rochester, NY 14627, USA. 
+- Email: jolivaresv "at" fudan dot edu dot cn
+- Address: Room 315-317, Shanghai Center for Mathematical Sciences, Jiangwan Campus, Fudan University, No.2005 Songhu Road, Shanghai, P.R. China. Postcode: 200438 
 
 **About me**
-
-I am a PhD student at University of Rochester advised by [Juan Rivera-Letelier](http://rivera-letelier.org/). My research interests lie in the areas of dynamical systems and ergodic theory.
+I am a Postdoctoral Fellow at the Shanghai Center for Mathematical Sciences of Fudan University.
+I was a PhD student at University of Rochester advised by [Juan Rivera-Letelier](http://rivera-letelier.org/). My research interests lie in the areas of dynamical systems and ergodic theory.
 
 ## Research
 
