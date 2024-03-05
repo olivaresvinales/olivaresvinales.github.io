@@ -5,15 +5,17 @@
 <img src="moebius.jpg" width="400" 
      height="200" align="right" />
 
-**Contact information**
+### **Contact information**
+
 - Email: jolivaresv "at" fudan dot edu dot cn
 - Address: Room 315-317, Shanghai Center for Mathematical Sciences, Jiangwan Campus, Fudan University, No.2005 Songhu Road, Shanghai, P.R. China. Postcode: 200438 
 
-**About me**
+### **About me**
+
 I am a Postdoctoral Fellow at the Shanghai Center for Mathematical Sciences of Fudan University.
 I was a PhD student at University of Rochester advised by [Juan Rivera-Letelier](http://rivera-letelier.org/). My research interests lie in the areas of dynamical systems and ergodic theory.
 
-## Research
+### Research
 
 **Preprints and Publications**
 
