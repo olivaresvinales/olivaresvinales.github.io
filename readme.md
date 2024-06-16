@@ -22,5 +22,5 @@ My research interests lie in the areas of dynamical systems and ergodic theory.
 
 
 2. **The Artin-Mazur zeta function for interval maps**. [arXiv](https://arxiv.org/abs/2405.10560).
-1. **Invariant measures for interval maps without Lyapunov exponents**. *Ergodic Theory and Dynamical Systems, 2021*. ([arXiv](https://arxiv.org/abs/2102.06795), [journal](https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/abs/invariant-measures-for-interval-maps-without-lyapunov-exponents/101CFA6F3BACFA4C120D2A3B8A1FB7A6#.YzosjYVjeQA.link))
+1. **Invariant measures for interval maps without Lyapunov exponents**. *Ergodic Theory and Dynamical Systems, 2023*. ([arXiv](https://arxiv.org/abs/2102.06795), [journal](https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/abs/invariant-measures-for-interval-maps-without-lyapunov-exponents/101CFA6F3BACFA4C120D2A3B8A1FB7A6#.YzosjYVjeQA.link))
 
