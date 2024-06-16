@@ -2,8 +2,8 @@
 
 # Jorge Olivares-Vinales
 
-<img src="moebius.jpg" width="400" 
-     height="200" align="right" />
+<img src="me_1.jpg.jpg" width="227" 
+     height="303" align="right" />
 
 ### **Contact information**
 
