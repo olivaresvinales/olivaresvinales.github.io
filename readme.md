@@ -12,7 +12,7 @@
 
 ### **About me**
 
-I am a Postdoctoral Fellow at the Shanghai Center for Mathematical Sciences of Fudan University.\
+I am a Postdoctoral Fellow at the Shanghai Center for Mathematical Sciences of Fudan University, mentored by [Weixiao Shen](https://scholar.google.com.sg/citations?user=Pe1NsLkAAAAJ&hl=en).\
 I was a PhD student at University of Rochester advised by [Juan Rivera-Letelier](http://rivera-letelier.org/).\
 My research interests lie in the areas of dynamical systems and ergodic theory.
 
