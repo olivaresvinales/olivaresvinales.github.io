@@ -19,7 +19,7 @@ My research interests lie in the areas of dynamical systems and ergodic theory.
 ### Research
 
 **Preprints and Publications**
-1. **Non-existence of wandering intervals for asymmetric unimodal maps**. <br />
+1. **Non-existence of wandering intervals for asymmetric unimodal maps**. ([arXiv](https://arxiv.org/abs/2502.03666)) <br />
 (with Weixiao Shen). Preprint.
 2. **The Artin-Mazur zeta function for interval maps**. ([arXiv](https://arxiv.org/abs/2405.10560)) <br />
 Preprint.
