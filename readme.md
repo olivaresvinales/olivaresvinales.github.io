@@ -20,7 +20,7 @@ My research interests lie in the areas of dynamical systems and ergodic theory.
 
 **Preprints and Publications**
 
-*5.* **Absolutely continuous invariant measures and the Collet--Eckmann condition for long-branched Sturmian unimodal maps**. <br />
+*5.* **Absolutely continuous invariant measures and the Collet--Eckmann condition for long-branched Sturmian unimodal maps**. ([arXiv](https://arxiv.org/abs/2608.10655)) <br />
 *preprint*
 
 *4.* **Towers and Bratteli-Vershik systems in Fibonacci-like unimodal maps**. ([arXiv](http://arxiv.org/abs/2602.21623)) <br />
