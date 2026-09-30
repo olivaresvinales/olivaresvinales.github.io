@@ -24,7 +24,7 @@ My research interests lie in the areas of dynamical systems and ergodic theory.
 *preprint*
 
 *4.* **Towers and Bratteli-Vershik systems in Fibonacci-like unimodal maps**. ([arXiv](http://arxiv.org/abs/2602.21623)) <br />
-(with Semin Yoo). *International Mathematics Research Notices,* (accepted).
+(with Semin Yoo). *International Mathematics Research Notices,* to appear.
 
 *3.* **Non-existence of wandering intervals for asymmetric unimodal maps**. ([arXiv](https://arxiv.org/abs/2502.03666), [journal](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/blms.70193)) <br />
 (with Weixiao Shen). *Bulletin of the London Mathematical Society, 2025*.
